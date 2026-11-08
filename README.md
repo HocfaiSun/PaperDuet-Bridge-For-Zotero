@@ -19,7 +19,7 @@ PaperDuet Bridge是专门为PaperDuet开发的Zotero插件，可将Zotero文献�
 
 **PaperDuet**是一款由[**KalenHwei**]("https://github.com/KalenHwei")开发的能保留格式的轻量级论文镜像AI翻译器，集成了6款开源AI翻译模型，可以按需下载并在本地进行部署，文献的翻译过程都在本地进行，无须担心隐私泄露等问题。同时，该软件也提供了在线API接入功能，用户可按需选择。该翻译器无需注册，安装即用。
 
-访问PaperDuet官网以获取更多信息：[paperduet.com]("https://paperduet.com")
+访问PaperDuet官网以获取更多信息：[paperduet.com](https://paperduet.com)
 
 <p align="center">
     <img src="docs/icon.png" width="160" alt="PaperDuet图标">
