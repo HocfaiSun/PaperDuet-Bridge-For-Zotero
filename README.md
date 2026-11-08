@@ -17,7 +17,7 @@ PaperDuet Bridge是专门为PaperDuet开发的Zotero插件，可将Zotero文献�
     
 ## PaperDuet是什么？
 
-**PaperDuet**是一款由[**KalenHwei**]("https://github.com/KalenHwei")开发的能保留格式的轻量级论文镜像AI翻译器，集成了6款开源AI翻译模型，可以按需下载并在本地进行部署，文献的翻译过程都在本地进行，无须担心隐私泄露等问题。同时，该软件也提供了在线API接入功能，用户可按需选择。该翻译器无需注册，安装即用。
+**PaperDuet**是一款由[**KalenHwei**](https://github.com/KalenHwei)开发的能保留格式的轻量级论文镜像AI翻译器，集成了6款开源AI翻译模型，可以按需下载并在本地进行部署，文献的翻译过程都在本地进行，无须担心隐私泄露等问题。同时，该软件也提供了在线API接入功能，用户可按需选择。该翻译器无需注册，安装即用。
 
 访问PaperDuet官网以获取更多信息：[paperduet.com](https://paperduet.com)
 
@@ -40,7 +40,7 @@ PaperDuet Bridge是专门为PaperDuet开发的Zotero插件，通过这款插件�
 
 **下载**
 
-从[Release]("https://github.com/HocfaiSun/PaperDuet-Bridge-For-Zotero/releases/latest")下载最新的Zotero插件`paperduet-bridge-1.6.0.xpi`。
+从[Release](https://github.com/HocfaiSun/PaperDuet-Bridge-For-Zotero/releases/latest)下载最新的Zotero插件`paperduet-bridge-1.6.0.xpi`。
 
 **安装**
 
@@ -114,6 +114,6 @@ PaperDuet Bridge是专门为PaperDuet开发的Zotero插件，通过这款插件�
 以上图片示例来自Mac OS，Windows系统下操作步骤一致，只是软件布局有差异。
 ## 致谢
 
-感谢[**KalenHwei**]("https://github.com/KalenHwei")开发了PaperDuet这款翻译器，PaperDuet Bridge插件也是在PaperDuet的基础以及启发下开发的，希望能够为大家带来便利。
+感谢[**KalenHwei**](https://github.com/KalenHwei)开发了PaperDuet这款翻译器，PaperDuet Bridge插件也是在PaperDuet的基础以及启发下开发的，希望能够为大家带来便利。
 
-图片演示论文来自**Hugh McColl**等人2026年11月04日发表在*Nature*期刊上的文章：[Tracing the spread of Celtic languages using ancient genomics]("https://www.nature.com/articles/s41586-026-11198-9")。
+图片演示论文来自**Hugh McColl**等人2026年11月04日发表在*Nature*期刊上的文章：[Tracing the spread of Celtic languages using ancient genomics](https://www.nature.com/articles/s41586-026-11198-9)。
