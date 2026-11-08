@@ -40,7 +40,7 @@ PaperDuet Bridge是专门为PaperDuet开发的Zotero插件，通过这款插件�
 
 **下载**
 
-从[Release]<https://github.com/HocfaiSun/PaperDuet-Bridge-For-Zotero/releases/latest> 下载最新的Zotero插件`paperduet-bridge-1.6.0.xpi`。
+从[Release]("https://github.com/HocfaiSun/PaperDuet-Bridge-For-Zotero/releases/latest")下载最新的Zotero插件`paperduet-bridge-1.6.0.xpi`。
 
 **安装**
 
