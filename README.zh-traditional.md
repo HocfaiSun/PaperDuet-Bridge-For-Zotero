@@ -117,3 +117,6 @@ PaperDuet Bridge是專門為PaperDuet開發的Zotero插件，通過這款插件�
 感謝[**KalenHwei**](https://github.com/KalenHwei)開發了PaperDuet這款翻譯器，PaperDuet Bridge插件也是在PaperDuet的基礎以及啟發下開發的，希望能夠為大家帶來便利。
 
 圖片演示論文來自**Hugh McColl**等人2026年11月04日發表在*Nature*期刊上的文章：[Tracing the spread of Celtic languages using ancient genomics](https://www.nature.com/articles/s41586-026-11198-9)。
+
+## 版權
+PaperDuet Bridge爲免費插件，禁止用於商業用途！
